@@ -91,7 +91,7 @@ An interactive **Power BI dashboard** that analyzes **7,060 Blinkit item sales r
 
 ---
 ##  Screen Shot:
-![Dashboard Preview]([images/blinkit_dashboard.png](https://github.com/KaranShinde016/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard%20SS.png)
+Example: ![Dashboard Preview](https://github.com/KaranShinde016/Ola-Ride-Booking-Analysis-Dashboard/blob/main/ola%20project%20dashboard%20ss.png)
 
 ---
 ## 📁 Repository Structure
